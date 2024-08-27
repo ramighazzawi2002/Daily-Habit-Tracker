@@ -90,10 +90,10 @@ The **Daily Habit Tracker** is a web application designed to help users build an
      ```
    - Run the following command:
      ```bash
-     npm start
+     npm run dev
      ```
 
-3. Open your browser and navigate to `http://localhost:3000` to start using the Daily Habit Tracker.
+3. Open your browser and navigate to `http://localhost:5173` to start using the Daily Habit Tracker.
 
 ## Contributing
 
