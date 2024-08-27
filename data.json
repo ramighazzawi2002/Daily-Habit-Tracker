@@ -1,0 +1,42 @@
+[
+  {
+    "name": "القراءة",
+    "category": "تعلم",
+    "completed": 3,
+    "target": 7,
+    "finishedToday": false,
+    "isDeleted": false
+  },
+  {
+    "name": "التمرين",
+    "category": "صحة",
+    "completed": 5,
+    "target": 7,
+    "finishedToday": true,
+    "isDeleted": false
+  },
+  {
+    "name": "التأمل",
+    "category": "رفاهية",
+    "completed": 2,
+    "target": 7,
+    "finishedToday": false,
+    "isDeleted": false
+  },
+  {
+    "name": "تعلم لغة جديدة",
+    "category": "تعلم",
+    "completed": 4,
+    "target": 7,
+    "finishedToday": false,
+    "isDeleted": false
+  },
+  {
+    "name": "شرب الماء",
+    "category": "صحة",
+    "completed": 6,
+    "target": 7,
+    "finishedToday": true,
+    "isDeleted": false
+  }
+]
